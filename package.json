@@ -1,0 +1,9 @@
+{
+  "name": "docker-cicd-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node app.js"
+  }
+}
